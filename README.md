@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @sjimenezlon from Colombia - 28 years old. 
+- Economist, MsC in Mathematics and Phd(c) Philosophy
+- 👀 I’m interested in expand my network.
+- 🌱 I’m currently learning Data Science.
+- 💞️ Ethics, Python, Neural Networks. 
+- 📫 sjimenezlon@gmail.com
